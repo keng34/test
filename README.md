@@ -1,2 +1,2 @@
-hello 555
+echo "hello 555"
 ///edit////
